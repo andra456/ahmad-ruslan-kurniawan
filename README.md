@@ -1,5 +1,5 @@
 
-# Frontend Developer Challenges Telkomsel MyTens
+# Github Implementation API
 
 >Implementaion github list repository 
 >Create page views all organitation on github and views all repositories using Typescript & React.JS.
