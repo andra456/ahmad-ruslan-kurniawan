@@ -1,0 +1,26 @@
+<svg version="1.1" id="L4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 453.53 173" enable-background="new 0 0 0 0" xml:space="preserve">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #efefef;
+            }
+        </style>
+    </defs>
+
+    <rect class="cls-1" width="167.29" height="25.41" rx="7.06">
+        <animate attributeName="opacity" dur="1s" values="0;1;0" repeatCount="indefinite" begin="0.1"></animate>
+    </rect>
+    <rect class="cls-1" y="52" width="104.47" height="53.94" rx="7.06">
+        <animate attributeName="opacity" dur="1s" values="0;1;0" repeatCount="indefinite" begin="0.2"></animate>
+    </rect>
+    <rect class="cls-1" x="116.35" y="52" width="104.47" height="53.94" rx="7.06">
+        <animate attributeName="opacity" dur="1s" values="0;1;0" repeatCount="indefinite" begin="0.3"></animate>
+    </rect>
+    <rect class="cls-1" x="232.71" y="52" width="104.47" height="53.94" rx="7.06">
+        <animate attributeName="opacity" dur="1s" values="0;1;0" repeatCount="indefinite" begin="0.4"></animate>
+    </rect>
+    <rect class="cls-1" x="349.06" y="52" width="104.47" height="53.94" rx="7.06">
+        <animate attributeName="opacity" dur="1s" values="0;1;0" repeatCount="indefinite" begin="0.5"></animate>
+    </rect>
+
+</svg>
