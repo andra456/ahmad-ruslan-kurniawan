@@ -1,23 +1,22 @@
 
-## Frontend Developer Challenges Telkomsel MyTens
+# Frontend Developer Challenges Telkomsel MyTens
 
 >Implementaion github list repository 
 >Create page views all organitation on github and views all repositories using Typescript & React.JS.
 
 
 ---
-## Documentation
+
 
 ## Install & Start
 
 Using  is recommended over `npm`.
-
-# Install Localy
 Copy folder to preapre instalation
 
 Install Depedencies
 
 ```shell
+$ git clone https://github.com/andra456/ahmad-ruslan-kurniawan.git
 $ cd [folder]
 $ yarn install
 
